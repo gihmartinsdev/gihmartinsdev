@@ -6,7 +6,6 @@
 Pesquisadora PIBIC na área de IA aplicada a interfaces de Business Intelligence.
 Interesse em arquitetura de software, desempenho, código, desenvolvimento e design centrado no usuário.
 
-/•᷅‎‎•᷄\੭
 ---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=28&center=true&vCenter=true&width=600&lines=Programe+como+uma+mulher"/>
