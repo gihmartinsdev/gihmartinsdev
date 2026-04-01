@@ -1,13 +1,12 @@
 
-# Oiee 👋 Eu gou a Gih! 😽
-
-
+# Oiee 👋 Eu sou a Gih!
 🚀 **Estudante de Engenharia de Software**  
 🇧🇷 Brasil
 
 Pesquisadora PIBIC na área de IA aplicada a interfaces de Business Intelligence.
 Interesse em arquitetura de software, desempenho, código, desenvolvimento e design centrado no usuário.
 
+/•᷅‎‎•᷄\੭
 ---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=28&center=true&vCenter=true&width=600&lines=Programe+como+uma+mulher"/>
@@ -51,29 +50,14 @@ Interesse em arquitetura de software, desempenho, código, desenvolvimento e des
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+---
 
+##  filosofia  ☕︎
 
-
+> _"Seja a mudança que você quer ver no mundo."_
 
 ---
 
-
-
----
-
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
 
 <img src="https://komarev.com/ghpvc/?username=gihmartinsdev&style=for-the-badge"/>
 
