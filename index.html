@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0a1510">
+  <meta name="description" content="Pixel Paws: o pequeno arcade da Giovanna. Ajude um gatinho preto e branco a pular obstáculos.">
+  <title>Pixel Paws · Gih's little arcade</title>
+  <link rel="stylesheet" href="game.css">
+  <script defer src="assets/sprites.js"></script>
+  <script defer src="game.js"></script>
+</head>
+<body>
+  <main>
+    <nav><a href="https://github.com/gihmartinsdev">↖ VOLTAR AO PERFIL</a><span><i></i> GIH'S LITTLE ARCADE</span></nav>
+    <header>
+      <div><p class="eyebrow">SIDE QUEST / 001</p><h1>PIXEL <span>PAWS</span><b>✦</b></h1><p class="intro">Desvie dos obstáculos. Colecione boas tentativas.<br>O próximo recorde pode ser seu.</p></div>
+      <div class="companion"><img src="assets/mascote.svg" alt="Gatinho preto e branco da Giovanna animado"><span>Seu player 02 está pronto.</span></div>
+    </header>
+    <section class="arcade" aria-label="Jogo Pixel Paws">
+      <div class="cabinet"><span>▶ PIXEL PAWS</span><div class="scoreboard"><span>PONTOS <strong id="score">00000</strong></span><span>RECORDE <strong id="best">00000</strong></span></div></div>
+      <div class="screen">
+        <canvas id="game" width="900" height="340" tabindex="0" aria-label="Jogo do gato. Espaço ou seta para cima para pular. P para pausar. Use também os botões abaixo.">Seu navegador precisa suportar Canvas. Use um navegador atualizado para jogar.</canvas>
+        <div id="overlay" class="overlay"><span id="overline">BEM-VINDA AO ARCADE</span><h2 id="headline">Pronta para a próxima fase?</h2><p id="description">Pule as caixas e os vasinhos.<br>Um toque é tudo de que você precisa.</p><button id="start" type="button">COMEÇAR A AVENTURA →</button></div>
+      </div>
+      <div class="controls"><button id="jump" class="primary" type="button">↑ INICIAR / PULAR</button><button id="pause" type="button" disabled>Ⅱ PAUSAR</button><button id="restart" type="button">↻ REINICIAR</button><span>ESPAÇO / ↑ / TOQUE</span></div>
+    </section>
+    <div id="status" class="sr-only" role="status" aria-live="polite"></div>
+    <section class="notes" aria-label="Como jogar"><div><span>01 / PULE</span><p>Use espaço, ↑ ou toque na tela. Cada salto conta.</p></div><div><span>02 / ENCONTRE O RITMO</span><p>O cenário acelera aos poucos. Observe a distância.</p></div><div><span>03 / TENTE DE NOVO</span><p>Seu melhor resultado fica salvo neste navegador.</p></div></section>
+    <footer><span>feito de pixels, curiosidade e pelos de gato.</span><a href="https://github.com/gihmartinsdev/gihmartinsdev">VER O CÓDIGO ↗</a></footer>
+  </main>
+</body>
+</html>
