@@ -9,7 +9,7 @@
   <a href="https://gihmartinsdev.github.io/gihmartinsdev/">JOGAR PIXEL PAWS ↗</a>
 </p>
 
-## 🌱 Player 01
+
 
 Oi, eu sou a **Giovanna**, mas pode me chamar de **Gih**.
 
@@ -41,14 +41,6 @@ gih.inventory
 └── companheiro felino   → suporte emocional + inspeção do teclado
 ```
 
-## 🗺️ Missões
-
-| Missão | O que você vai encontrar |
-| :--- | :--- |
-| [🌿 Banco de Alimentos](https://github.com/BrunoFernandesO/banco-de-alimentos-aep) | Projeto em equipe com Java e MySQL: doadores, alimentos, beneficiários e distribuição. |
-| [🐾 Pixel Paws](https://gihmartinsdev.github.io/gihmartinsdev/) | Meu pequeno arcade: ajude o gatinho a pular os obstáculos e superar seu recorde. |
-
-<img src="assets/divisor.svg" width="100%" alt="" />
 
 ## 🕹️ Uma pausa para jogar?
 
