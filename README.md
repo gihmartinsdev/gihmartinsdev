@@ -54,17 +54,3 @@ gih.inventory
 
 <img src="assets/snake.svg" width="100%" alt="Cobrinha animada com o histórico real de contribuições de gihmartinsdev; gerada diariamente pelo GitHub Actions" />
 
-<details>
-  <summary>🎁 Encontrou uma passagem secreta? Clique aqui.</summary>
-
-  <br />
-
-  **Item encontrado: biscoito de coragem 🍪**
-
-  Se o código não funcionou de primeira, você não perdeu a fase. Só encontrou mais uma pista.
-
-  Obrigada pela visita! Deixe uma estrelinha em um projeto de que você gostou. 🌟
-
-</details>
-
-<p align="center"><br /><a href="https://github.com/gihmartinsdev">↗ Vamos criar alguma coisa?</a><br /><sub>made of pixels, curiosity &amp; cat hair.</sub></p>
